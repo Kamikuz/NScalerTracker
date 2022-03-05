@@ -1,4 +1,4 @@
-package cn.kamikuz.nscalertracker;
+package cn.kamikuz.nscalertracker.controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
